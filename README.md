@@ -1,2 +1,3 @@
 # Typescript Basic Lesson From Youtube
 > Following this playlist for basic typescript learning :👉 [ TypeScript Bangla ( বাংলা ) Tutorial Series](https://www.youtube.com/watch?v=CHnTTzD1pAQ&list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3)
+> by Sumit shaha
